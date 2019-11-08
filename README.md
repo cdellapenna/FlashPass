@@ -3,7 +3,8 @@
 Description: Quick and easy password manager
 
 Members: 
-       1. CASSIUS DELLA PENNA
+      
+      1. CASSIUS DELLA PENNA
        
        2. Collin FRINK
        
