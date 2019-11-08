@@ -1,10 +1,10 @@
 # FlashPass
 
-# Description: 
+###### Description: 
 
       Quick and easy password manager
 
-# Members: 
+###### Members: 
       
        1. CASSIUS DELLA PENNA
        
@@ -16,6 +16,6 @@
        
        5. ABHI PARSAI 
 
-# Problem: 
+###### Problem: 
 
       It's hard to remember all your passwords for all of your accounts. It's unsafe to have the same password for all your accounts. This       way you can have all your paswords easily accessible and still be secure.
