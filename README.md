@@ -1,2 +1,2 @@
 # FlashPass
-Quick and easy password manager
+Description: Quick and easy password manager
